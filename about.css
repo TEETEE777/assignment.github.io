@@ -1,0 +1,15 @@
+#qt{
+	border-radius: 20px;
+	padding: 50px;
+	background-color: #659EC7;
+	text-align: center;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+#values{
+	border-radius: 20px;
+	padding: 50px;
+	background-color: #AAF0D1;
+	text-align: center;
+	font-family: 'Trebuchet MS', sans-serif;
+}

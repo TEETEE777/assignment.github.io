@@ -1,0 +1,21 @@
+.hd2{
+	font-family: "Times New Roman";
+}
+
+body{
+	background-color:#40E0D0;
+}
+
+ul{
+	list-style-type: square;
+}
+
+.list{
+	text-align: left;
+	font-family: Garamond, serif;
+	width: 300px;
+  	border: 8px solid dimgray;
+  	padding: 50px;
+  	margin: auto;
+  	background-color: #FFC0CB;
+}
